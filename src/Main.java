@@ -3,5 +3,7 @@ public class Main {
         System.out.println("First code");
         int num = 1;
 
+        int num = 2;
+
     }
 }
